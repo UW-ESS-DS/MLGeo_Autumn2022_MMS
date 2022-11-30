@@ -1,0 +1,7 @@
+name: MLlabs
+channels:
+        - conda_forge
+        - defaults
+dependencies:
+        - numpy
+        - obspy
